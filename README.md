@@ -7,7 +7,8 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Describe your course including the name, description, and grade level
+Computer Science
+11th grade
 
 ### Situation
 
