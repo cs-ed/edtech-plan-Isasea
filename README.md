@@ -40,4 +40,4 @@ Outside of my classroom students will be given starter codes and reflection piec
 How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or 
-evolving course contexts.
+evolving course contexts. 
