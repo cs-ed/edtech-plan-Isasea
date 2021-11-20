@@ -9,27 +9,42 @@
 >Introduction Computer Science course for Middle Schoolers
 
 ### Situation
->Assets at my school that will help are the large  computer classrooms that are available on campus. Having these roomier classrooms can help students have enough space to work in groups and experience an environment where growth in class can happen in groups.  Students will have no problem accesing the web because they have a laptop assigned to them to take home and will have full size computers in the computer classrooms that they will use. Each student will have two working devices for this course. 
+>Assets at my school that will help are the large computer classrooms that are available on campus. Having these roomier classrooms can help students have enough space to work in groups and experience an environment where growth in class can happen in groups.  Students will have no problem accesing the web because they have a laptop assigned to them to take home and will have full size computers in the computer classrooms that they will use. Each student will have two working devices for this course. 
 
->A constraint that we have at our campus is that students are taking a computer class for the very first time and there is no resources for teachers like textbooks for this course. Lack of resources can created an impediment for learning all the fundamental introductory  Computer Course topics. Since the computer lab is big the computer class will be about 36 students which is a larger class where students might not have that 1:1 attention.  Not all students have internet access at home to complete their homework and this can cause some constraints in the long run. 
->>>Class is an elective and when students are not able to get their first choice of elective they will be put in this class even thought they do not have interst in teh class
-
->>This school is a Title 1 school
->>Class is an elective and when students are not able to get their first choice of elective they will be put in this class even thought they do not have interst in teh class
+>A constraint that we have at our campus is that students are taking a computer class for the very first time and there is no resources for teachers like textbooks for this course. Lack of resources can created an impediment for learning all the fundamental introductory  Computer Course topics. Since the computer lab is big the computer class will be about 36 students which is a larger class where students might not have that 1:1 attention.  Not all students have internet access at home to complete their homework and this can cause problems in the long run.
+>>>Class is an elective and when students are not able to get their first choice of elective they will be put in this class even thought they do not have any interest in this class.
+>>>This school is a Title 1 school.
+>>>Math coach oversees this course and there is not a Computer Science coach at the district level.
 
 ## Plan
 
 ### Software Specifications
 
-Online software used in the classroom will be Scratch as well as Hour of Code. Teachers and students will use both. Students will use Schoology to submit reflection pieces during the classroom.
+>Online software used in the classroom will be Scratch as well as Hour of Code.
+>>>**Scratch
+>>>Will be used in order to help students use different sprites and have an opportunity to experience block code before there is any exposure of any type of code. 
+>>>Students will have challenges each week that they need to complete in order to show mastery in Scratch. ** 
+>>> **
 
 ### Hardware Specifications
 
-Teacher computer will be a LENOVO THINKPAD as personal devices but will use a 
-In the computer classroom students use MAC's. Network is wireless.
-All computers on campus are limited to websites due to school district firewall but this can change for my students if I message my technology department in the School District.
-The Lenovo Thinkpad can hook up to my projector and can be displayed wirelessly for our classroom lessons.
-Students can attend office hours via google meet and if we are back online they will meet on google meet.
+
+Students have:
+HP Chromebook 
+Chrome OS 64
+Integrated Intel UHD Graphics 600
+4 GB memory; 32 GB eMMC 
+4 GB LPDDr4-3733 MHz RAM
+
+
+Teachers have:
+Lenovo Thinkpad 
+Windows 10
+Intel Core i7 6600U (4MB Cache, Up to 3.4 GHz)
+12 GB Memory; SSD	256GB
+
+
+
 ### Application
 Scratch will help students go through challenges through out the classroom. 
 Students will always get the answers in class by giving them small "hacks" that will guide them to start on their Scratch code. First students will come to class and
