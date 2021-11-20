@@ -54,7 +54,4 @@ Outside of my classroom students will be given starter codes and reflection piec
 ### Impacts
 
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or 
-evolving course contexts. 
+This course is designed to exporesed students to the world of coding. Although students will not be creating codes on C++, C, Python, or Java they will be introduced to a course before they are able to be exposed to the coding languages. Students of this district will be able to be exposed to basic coding softwares that are online and easy to use. With this exposure I hope that students will pursue a degree in Computer Science one day and will create opportunities for others who are underpresented in STEM fields.
