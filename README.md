@@ -6,7 +6,7 @@
 
 ### Course
 
-Introduction Computer Science course for Middle Schoolers
+>Introduction Computer Science course for Middle Schoolers
 
 ### Situation
 Assets at my school that will help are the large computer classes provided for me to teach in. Students will have no problem accesing the web when working on the programs.
