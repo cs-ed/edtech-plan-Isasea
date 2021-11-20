@@ -20,11 +20,7 @@
 
 ### Software Specifications
 
->Online software used in the classroom will be Scratch as well as Hour of Code.
->>>**Scratch
->>>Will be used in order to help students use different sprites and have an opportunity to experience block code before there is any exposure of any type of code. 
->>>Students will have challenges each week that they need to complete in order to show mastery in Scratch. ** 
->>> **
+>Online software used in the classroom will be Scratch as well as Hour of Code. Scratch will be used in order to help students use different sprites and have an opportunity to experience block code before there is any exposure of any type of code. Students can use any computer and still have access to their work without needing a special software installed on their computers. These two websites are easy to access and are free to use. 
 
 ### Hardware Specifications
 
