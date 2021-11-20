@@ -1,14 +1,12 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5862833&assignment_repo_type=AssignmentRepo)
-# Educational Technology Plan
+# Ms. Barboza's Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan purpose is to provide a detailed 
 
 ## Context
 
 ### Course
 
-Introduction to Computer Science
-Middle School Level
+Introduction Computer Science course for Middle Schoolers
 
 ### Situation
 Assets at my school that will help are the large computer classes provided for me to teach in. Students will have no problem accesing the web when working on the programs.
