@@ -9,8 +9,8 @@
 >Introduction Computer Science course for Middle Schoolers
 
 ### Situation
-Assets at my school that will help are the large computer classes provided for me to teach in. Students will have no problem accesing the web when working on the programs.
-A constraint that we have at our campus is that students are taking a computer class for the very first time and there is no resources for teachers like textbooks for this course. Since the computer lab is big the computer class will be a huge class. Not all students will get that 1-1 attention they need. Not all students have internet access at home to complete their homework.
+>Assets at my school that will help are the large  computer classrooms that are available on campus. Having these roomier classrooms can help students have enough space to work in groups and experience an environment where growth in class can happen in groups.  Students will have no problem accesing the web because they have a laptop assigned to them to take home and will have full size computers in the computer classrooms that they will use. Each student will have two working devices for this course. 
+A constraint that we have at our campus is that students are taking a computer class for the very first time and there is no resources for teachers like textbooks for this course. Lack of resources can created an impediment for learning all the fundamental introductory  Computer Course topics. Since the computer lab is big the computer class will be about 36 students which is a larger class where students might not have that 1:1 attention.  Not all students have internet access at home to complete their homework and this can cause some constraints in the long run. 
 
 
 ## Plan
