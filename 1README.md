@@ -56,5 +56,5 @@ This course is designed to expose students to the world of coding and it's possi
 
 
 Representation matters
-It is important that there is an acknowledgment of who historically had access to computers and who marketing aimed to sell computers to. Computers have been marketed to affluent white boys. This leaves students of colors and women out of the fields like computer science.  
+It is important that there is an acknowledgment of who historically had access to computers and who marketing aimed to sell computers to. Computers have been marketed to affluent ,white boys. This leaves students of colors and women out of the fields of computer science for many years. Because of this it is important that our students are able access computer science classes  make up for all the years they were left out. According to PBS in 2010 there was 18.7 percent of women in Computer Science. Additionally African American and Hispanics made less than 10% of the Comptuer science 
 
