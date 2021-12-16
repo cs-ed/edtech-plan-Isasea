@@ -58,3 +58,4 @@ Because representation matters it is vital that there is a conversation of who h
 The digital divide that exists during this time is an important reason why this course should be taught in any school district. Every child should have the opportunity to know the basics of computers but also learn that computers are not just for browsing the web but can help resolve problems or can be used to showcase their creativity. Since not all everyone has access to a computer it is important that by allowing students to join this course they are able to close the gap between those who have grown with computers at home and feel very comfortable with their usuage and have an advantage between those who do not. Sparking interest by
 
 
+Approaches for this class based on my situation 
