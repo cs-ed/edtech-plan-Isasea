@@ -10,7 +10,7 @@
 
 ### Situation
 Assets at my school that will help are the large computer classrooms that are available on campus. Having these roomier classrooms can help students have enough space to work in groups and experience an environment where growth in class can happen in groups.  Students will have no problem accesing the web  on campus. Each student has a laptop assigned to them to take home and will have full size computers in the computer classrooms that they will use. Each student will have two working devices for this course in order to support students with their work. 
-Zamboni Middle School is a Title I school that has about 900 students from grades 6th to 8th. 
+Zamboni Middle School is a Title I school that has about 900 students from grades 6th to 8th. With various electives this Introductory course has limitations with the number of students who will sign up for the class. Advertisement for this course are done during 3rd period announcements and this course usually has more males signed up for it than females.
 
 A constraint that we have at our campus is that students are taking a computer class for the very first time and there is no resources for teachers like textbooks for this course. Lack of resources can created an impediment for learning all the fundamental introductory  Computer Course topics. Since the computer lab is big the computer class will be about 36 students which is a larger class where students might not have that 1:1 attention.  Not all students have internet access at home to complete their homework and this can cause problems in the long run.
 Class is an elective and when students are not able to get their first choice of elective they will be put in this class even thought they do not have any interest in this class.
@@ -59,4 +59,4 @@ Because representation matters it is vital that there is a conversation of who h
 The digital divide that exists during this time is an important reason why this course should be taught in any school district. Every child should have the opportunity to know the basics of computers but also learn that computers are not just for browsing the web but can help resolve problems or can be used to showcase their creativity. Since not all everyone has access to a computer it is important that by allowing students to join this course they are able to close the gap between those who have grown with computers at home and feel very comfortable with their usuage and have an advantage between those who do not. Sparking interest by
 
 
-Approaches for this class based on my situation 
+Approaches for this class based on my situation include having assignments be completed in class to avoid anyone not doing their work at home due to internet connection.  
