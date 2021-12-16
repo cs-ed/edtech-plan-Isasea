@@ -9,12 +9,12 @@
 >Introduction Computer Science course for Middle Schoolers
 
 ### Situation
->Assets at my school that will help are the large computer classrooms that are available on campus. Having these roomier classrooms can help students have enough space to work in groups and experience an environment where growth in class can happen in groups.  Students will have no problem accesing the web because they have a laptop assigned to them to take home and will have full size computers in the computer classrooms that they will use. Each student will have two working devices for this course. 
+Assets at my school that will help are the large computer classrooms that are available on campus. Having these roomier classrooms can help students have enough space to work in groups and experience an environment where growth in class can happen in groups.  Students will have no problem accesing the web because they have a laptop assigned to them to take home and will have full size computers in the computer classrooms that they will use. Each student will have two working devices for this course. 
 
->A constraint that we have at our campus is that students are taking a computer class for the very first time and there is no resources for teachers like textbooks for this course. Lack of resources can created an impediment for learning all the fundamental introductory  Computer Course topics. Since the computer lab is big the computer class will be about 36 students which is a larger class where students might not have that 1:1 attention.  Not all students have internet access at home to complete their homework and this can cause problems in the long run.
->>>Class is an elective and when students are not able to get their first choice of elective they will be put in this class even thought they do not have any interest in this class.
->>>This school is a Title 1 school.
->>>Math coach oversees this course and there is not a Computer Science coach at the district level.
+A constraint that we have at our campus is that students are taking a computer class for the very first time and there is no resources for teachers like textbooks for this course. Lack of resources can created an impediment for learning all the fundamental introductory  Computer Course topics. Since the computer lab is big the computer class will be about 36 students which is a larger class where students might not have that 1:1 attention.  Not all students have internet access at home to complete their homework and this can cause problems in the long run.
+Class is an elective and when students are not able to get their first choice of elective they will be put in this class even thought they do not have any interest in this class.
+This school is a Title 1 school.
+Math coach oversees this course and there is not a Computer Science coach at the district level.
 
 ## Plan
 
