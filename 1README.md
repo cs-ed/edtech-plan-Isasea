@@ -42,12 +42,15 @@ Intel Core i7 6600U (4MB Cache, Up to 3.4 GHz)
 
 
 ### Application
-Scratch will help students go through challenges through out the classroom. 
-Students will always get the answers in class by giving them small "hacks" that will guide them to start on their Scratch code. First students will come to class and
-get a paper that has some short cuts to create the program we need. Students will start with Scratch starter projects to help them learn new concepts in coding.
-Outside of my classroom students will be given starter codes and reflection pieces. Homework will be given in class and worked on in class during the week to help students have a guide as they are doing their work. Assessments will be on basic coding language of Scratch. Students will be asked to complete basic codes in Scratch as part of quiz grades and more complicated codes will be required for tests.Homework has to be done in class in order to provide all students with a computer that can support the software and has fast internet. Addiitonally students need to demonstrate their knowledge of basic commands on scratch and should be given an opportunity to show their knowledge. 
-
 Day to Day:
+Because my students do not all have access to reliable internet at home they will have their day to day reflect no homework assigned. 
+
+Problets- First students will be assigned groups of four students they can ask for guidance on their problets in the beginning of class. This is a daily activity we will have to sharpen on the arithmetic skills and basic coding. Students will get immediate feedback if they get a small coding problem. This will take minutes and will be our opening activity just like a warmup.
+
+Labs- Will presented once a week and will be worked on during the remainder of the week. Students have 5 days to complete their labs and keep a Computer Scientists reflection journal to document their struggles or success. Also, students will document their learning and what they hope to learn in the future from their struggles. Labs will be done weekly. Students will use their four team members to get their guidance. Because of the situation I have in my classroom students need to utilize every second of class to finish work instead of doing this a home.  Labs will be turned in by submitting screenshots of their code on Schoology, which is what my district uses to input grades and classwork for students. 
+
+Projects will be only assigned two weeks prior to the final of each semester. 
+
 
 
 ### Impacts
