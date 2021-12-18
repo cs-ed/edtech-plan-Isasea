@@ -6,7 +6,7 @@
 
 ### Course
 
->Introduction Computer Science course for Middle Schoolers
+Introduction Computer Science course for Middle Schoolers
 
 ### Situation
 
@@ -19,7 +19,7 @@ A constraint that we have at our campus is that students are taking a computer c
 
 ### Software Specifications
 
->Online software used in the classroom will be Scratch as well as Hour of Code. Scratch will be used in order to help students use different sprites and have an opportunity to experience block code before there is any exposure of any type of code. Students can use any computer and still have access to their work without needing a special software installed on their computers. These two websites are easy to access and are free to use. 
+Online software used in the classroom will be Scratch as well as Hour of Code. Scratch will be used in order to help students use different sprites and have an opportunity to experience block code before there is any exposure of any type of code. Students can use any computer and still have access to their work without needing a special software installed on their computers. These two websites are easy to access and are free to use. 
 
 ### Hardware Specifications
 
@@ -55,7 +55,6 @@ Day to Day:
 This impact section will address topics in Computer Science Education that are currently affecting students of different backgrounds and have contributed to the lack of representation in the field of their Computer Science. The first group of students who have been misrepresented in the STEM fields which are students who do not have internet access at home or even access to basic internet. The second group of students who have been affected are women. Lastly students of color have also been almost nonexistent in this field.
 
 It is crucial to address the focus of this course to understand how it will help minority, students of lower communities, and women join the field. This course is designed to expose all students to the world of coding and its possibility of creating their creative solutions to the problems of today and even the future. Although students will not be creating code in  C++, C, Python, or Java they will have an introduction to a course before they have decided that they enjoy coding. It is an important course that will either make students love coding or just decide it is not for them. Students of this district who are majority minorities will be exposed to basic coding software that is available online with block coding where commands are easier to understand for those who are just becoming familiar with coding.  With this exposure I hope that students will pursue to learn more about non-block coding programs and one day help others who might not know of the existence of coding. This class will help my students understand about some of the history of Computer Science and how representation in STEM fields lack people like them and this could be a reason why there are some solutions unsolved we need them in the field. 
-
 
 Representation in Computer Science matters. In Computer Science it is important to understand that historically those who had money would be able to access computers and the internet while those who did not were left behind. Early marketing aimed to sell computers to affluent, white boys. This leaves students of colors and women out of the fields of computer science for many years. Because of this it is important that our students are able access computer science classes make up for all the years they were left out of the narrative. According to an article on PBS, African American and Hispanics made less than 10% of the Computer Science workforce. My district has predominately students of color who can no longer be ignored or set aside from these fields because we need their own creativity to solve the next set of problems of the 21st century. In my school district my students deserve the right to be able to choose to go into this field regardless of their gender and their skin color or gender. Coding no longer is a man’s world as you can see sites like SheCodes aim to promote more women to become Computer Scientists. According to SheCodes 25% of women are in the field of Computer Science and make 30%. Thankfully this course will allow students to be exposed to creatively making their assignments and hopefully my students will grow to enjoy coding.
 
