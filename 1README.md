@@ -6,7 +6,7 @@
 
 ### Course
 
-Introduction Computer Science course for Middle Schoolers
+Introduction Computer Science course for Middle Schoolers for Paramount Unified School Districts.
 
 ### Situation
 
